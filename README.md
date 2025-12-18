@@ -1,2 +1,3 @@
-# C++ - Materi Input/O
-Ini Merupakan Materi Kalkulus 1 dan EAS dan ETS di ITS Angkatan 2025
+# C++ - Materi Input/Ouput
+Ini Merupakan Salah satu Materi C++ di Saind Data ITS Angkatan 2025\
+
